@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "pinyin-kingdom",
+  "compatibility_date": "2026-09-28",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    {
+      "pattern": "pinyin.autoclaude.cn",
+      "custom_domain": true
+    }
+  ]
+}

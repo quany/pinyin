@@ -1,0 +1,1612 @@
+[
+  {
+    "id": 1,
+    "page": 3,
+    "group": "单韵母",
+    "title": "单韵母",
+    "letters": "a o e",
+    "tip": "一声高高平又平，二声爬坡向上扬，三声拐弯下又上，四声下坡快又响。",
+    "recognition": "一声高高平又平：ā ō ē\n二声爬坡向上扬：á ó é\n三声拐弯下又上：ǎ ǒ ě\n四声下坡快又响：à ò è",
+    "syllables": [
+      "á",
+      "ò",
+      "é",
+      "á",
+      "ǎ",
+      "ó",
+      "è",
+      "ǎ",
+      "ǒ",
+      "ē",
+      "à",
+      "ò",
+      "è",
+      "ó",
+      "ō",
+      "ě",
+      "ā",
+      "ò",
+      "è",
+      "á",
+      "ǎ"
+    ],
+    "comparisons": [
+      "á · ó",
+      "è · à",
+      "ǎ · ǒ",
+      "ē · ō",
+      "ǎ · ě",
+      "à · ò",
+      "ǒ · ě",
+      "è · ò",
+      "ā · ē",
+      "ó · é",
+      "ō · ā",
+      "é · á"
+    ],
+    "words": [],
+    "characters": "",
+    "sentences": []
+  },
+  {
+    "id": 2,
+    "page": 4,
+    "group": "单韵母",
+    "title": "单韵母",
+    "letters": "i u ü",
+    "tip": "小 i 标调去掉点，小 ü 标调点还在。",
+    "recognition": "一声高高平又平：ī ū ǖ\n二声爬坡向上扬：í ú ǘ\n三声拐弯下又上：ǐ ǔ ǚ\n四声下坡快又响：ì ù ǜ",
+    "syllables": [
+      "ī",
+      "ú",
+      "ǚ",
+      "ì",
+      "ǔ",
+      "ǐ",
+      "ū",
+      "ǜ",
+      "í",
+      "ì",
+      "ǘ",
+      "ǐ",
+      "ǚ",
+      "ù",
+      "ǖ",
+      "ǘ",
+      "ǔ",
+      "ǚ",
+      "ú",
+      "í",
+      "ǜ",
+      "ǔ",
+      "ǒ",
+      "ē",
+      "ì",
+      "à",
+      "ū",
+      "ō",
+      "ě",
+      "ǖ",
+      "ù",
+      "ǜ",
+      "è",
+      "á",
+      "ǐ"
+    ],
+    "comparisons": [
+      "ǔ · ǒ",
+      "ǖ · ū",
+      "ǎ · ǚ",
+      "ī · ō",
+      "ù · ò",
+      "ì · í",
+      "ǚ · ǔ",
+      "ú · ǘ",
+      "ē · ǘ",
+      "ì · à",
+      "ǐ · ǔ",
+      "í · ǘ"
+    ],
+    "words": [],
+    "characters": "",
+    "sentences": []
+  },
+  {
+    "id": 3,
+    "page": 5,
+    "group": "声母",
+    "title": "声母",
+    "letters": "b p m f",
+    "tip": "前音轻短后音重，两音相连猛一碰。",
+    "recognition": "a o e i u ü b p m f\nb - p u - ü f - i p - b",
+    "syllables": [
+      "bā",
+      "pá",
+      "bō",
+      "pó",
+      "pī",
+      "bù",
+      "pù",
+      "mǎ",
+      "fà",
+      "fó",
+      "pǐ",
+      "pú",
+      "mǒ",
+      "mǔ",
+      "mǐ",
+      "fú",
+      "bà",
+      "mù",
+      "bǐ",
+      "pà",
+      "pā",
+      "bá",
+      "pō",
+      "mó",
+      "mì",
+      "fù",
+      "fá",
+      "mā",
+      "má",
+      "mō",
+      "bī",
+      "fǎ",
+      "bǎ",
+      "bǒ",
+      "pí",
+      "fǔ",
+      "pì",
+      "bí",
+      "mí",
+      "fā",
+      "pǒ",
+      "bò",
+      "bó",
+      "pō",
+      "mú",
+      "pū",
+      "bǔ",
+      "bì",
+      "pǔ",
+      "pò",
+      "mī",
+      "mà",
+      "fū",
+      "pā",
+      "mò"
+    ],
+    "comparisons": [
+      "b · p",
+      "u · ü",
+      "f · i",
+      "p · b"
+    ],
+    "words": [
+      {
+        "hanzi": "爸爸",
+        "pinyin": "bà ba"
+      },
+      {
+        "hanzi": "妈妈",
+        "pinyin": "mā ma"
+      },
+      {
+        "hanzi": "婆婆",
+        "pinyin": "pó po"
+      },
+      {
+        "hanzi": "伯伯",
+        "pinyin": "bó bo"
+      },
+      {
+        "hanzi": "批发",
+        "pinyin": "pī fā"
+      },
+      {
+        "hanzi": "瀑布",
+        "pinyin": "pù bù"
+      },
+      {
+        "hanzi": "抚摸",
+        "pinyin": "fǔ mō"
+      },
+      {
+        "hanzi": "秘密",
+        "pinyin": "mì mi"
+      },
+      {
+        "hanzi": "父母",
+        "pinyin": "fù mǔ"
+      },
+      {
+        "hanzi": "抹布",
+        "pinyin": "mā bù"
+      },
+      {
+        "hanzi": "木马",
+        "pinyin": "mù mǎ"
+      },
+      {
+        "hanzi": "皮肤",
+        "pinyin": "pí fū"
+      },
+      {
+        "hanzi": "魔法",
+        "pinyin": "mó fǎ"
+      },
+      {
+        "hanzi": "爬坡",
+        "pinyin": "pá pō"
+      },
+      {
+        "hanzi": "步伐",
+        "pinyin": "bù fá"
+      }
+    ],
+    "characters": "爸妈",
+    "sentences": []
+  },
+  {
+    "id": 4,
+    "page": 6,
+    "group": "声母",
+    "title": "声母",
+    "letters": "d t n l",
+    "tip": "仔细看清字母的方向，分清 b 和 d、p 和 b、m 和 n。",
+    "recognition": "b p m f d t n l\nb - d m - n t - f p - d\nl - i u - n b - p ü - u",
+    "syllables": [
+      "nǚ",
+      "dē",
+      "nì",
+      "dù",
+      "tǎ",
+      "tè",
+      "lǜ",
+      "tú",
+      "dé",
+      "nà",
+      "nè",
+      "lǚ",
+      "nù",
+      "là",
+      "nǔ",
+      "lè",
+      "lì",
+      "lǘ",
+      "lū",
+      "lǔ",
+      "dǎ",
+      "dú",
+      "lí",
+      "tù",
+      "dī",
+      "lā",
+      "dū",
+      "tà",
+      "tǐ",
+      "lú",
+      "nǎ",
+      "nǐ",
+      "tā",
+      "tí",
+      "lǐ",
+      "lā",
+      "nú",
+      "tǔ",
+      "dǐ",
+      "dà",
+      "tǎ",
+      "ní",
+      "dī",
+      "dá",
+      "dǔ",
+      "né",
+      "lǎ",
+      "lù"
+    ],
+    "comparisons": [
+      "b · d",
+      "m · n",
+      "t · f",
+      "p · d",
+      "l · i",
+      "u · n",
+      "b · p",
+      "ü · u"
+    ],
+    "words": [
+      {
+        "hanzi": "弟弟",
+        "pinyin": "dì di"
+      },
+      {
+        "hanzi": "大米",
+        "pinyin": "dà mǐ"
+      },
+      {
+        "hanzi": "地图",
+        "pinyin": "dì tú"
+      },
+      {
+        "hanzi": "题目",
+        "pinyin": "tí mù"
+      },
+      {
+        "hanzi": "泥土",
+        "pinyin": "ní tǔ"
+      },
+      {
+        "hanzi": "喇叭",
+        "pinyin": "lǎ ba"
+      },
+      {
+        "hanzi": "蜡笔",
+        "pinyin": "là bǐ"
+      },
+      {
+        "hanzi": "努力",
+        "pinyin": "nǔ lì"
+      },
+      {
+        "hanzi": "马路",
+        "pinyin": "mǎ lù"
+      },
+      {
+        "hanzi": "理发",
+        "pinyin": "lǐ fà"
+      },
+      {
+        "hanzi": "驴皮",
+        "pinyin": "lǘ pí"
+      },
+      {
+        "hanzi": "法律",
+        "pinyin": "fǎ lǜ"
+      },
+      {
+        "hanzi": "麻辣",
+        "pinyin": "má là"
+      },
+      {
+        "hanzi": "打靶",
+        "pinyin": "dǎ bǎ"
+      },
+      {
+        "hanzi": "踏步",
+        "pinyin": "tà bù"
+      },
+      {
+        "hanzi": "肚皮",
+        "pinyin": "dù pí"
+      },
+      {
+        "hanzi": "特地",
+        "pinyin": "tè dì"
+      },
+      {
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ"
+      },
+      {
+        "hanzi": "大地",
+        "pinyin": "dà dì"
+      },
+      {
+        "hanzi": "玻璃",
+        "pinyin": "bō li"
+      }
+    ],
+    "characters": "大马路土",
+    "sentences": []
+  },
+  {
+    "id": 5,
+    "page": 7,
+    "group": "声母",
+    "title": "声母",
+    "letters": "g k h",
+    "tip": "声轻介短韵母响，三音连读很顺当。",
+    "recognition": "a o e i u ü b p m f\nd t n l g k h\ng - p h - b l - k p - d d - b",
+    "syllables": [
+      "gā",
+      "kē",
+      "hū",
+      "gè",
+      "hé",
+      "gù",
+      "hú",
+      "hā",
+      "gǔ",
+      "gà",
+      "gé",
+      "kǔ",
+      "hè",
+      "gū",
+      "gǎ",
+      "kǎ",
+      "kě",
+      "hǔ",
+      "kā",
+      "hù",
+      "kū",
+      "há",
+      "gě",
+      "lè",
+      "guā",
+      "huá",
+      "guó",
+      "kuā",
+      "huǒ",
+      "guǒ",
+      "kuà",
+      "guǎ",
+      "huà",
+      "guō",
+      "huó",
+      "guà"
+    ],
+    "comparisons": [
+      "g · p",
+      "h · b",
+      "l · k",
+      "p · d",
+      "d · b"
+    ],
+    "words": [
+      {
+        "hanzi": "狐狸",
+        "pinyin": "hú li"
+      },
+      {
+        "hanzi": "瓜皮",
+        "pinyin": "guā pí"
+      },
+      {
+        "hanzi": "拔河",
+        "pinyin": "bá hé"
+      },
+      {
+        "hanzi": "鼓励",
+        "pinyin": "gǔ lì"
+      },
+      {
+        "hanzi": "可乐",
+        "pinyin": "kě lè"
+      },
+      {
+        "hanzi": "蘑菇",
+        "pinyin": "mó gu"
+      },
+      {
+        "hanzi": "立刻",
+        "pinyin": "lì kè"
+      },
+      {
+        "hanzi": "个体",
+        "pinyin": "gè tǐ"
+      },
+      {
+        "hanzi": "河马",
+        "pinyin": "hé mǎ"
+      },
+      {
+        "hanzi": "瓜果",
+        "pinyin": "guā guǒ"
+      },
+      {
+        "hanzi": "萝卜",
+        "pinyin": "luó bo"
+      },
+      {
+        "hanzi": "花朵",
+        "pinyin": "huā duǒ"
+      },
+      {
+        "hanzi": "扩大",
+        "pinyin": "kuò dà"
+      },
+      {
+        "hanzi": "火把",
+        "pinyin": "huǒ bǎ"
+      },
+      {
+        "hanzi": "滑梯",
+        "pinyin": "huá tī"
+      }
+    ],
+    "characters": "哥弟画花",
+    "sentences": [
+      {
+        "hanzi": "哥哥和弟弟画荷花贺卡。",
+        "pinyin": "gē ge hé dì di huà hé huā hè kǎ"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "page": 8,
+    "group": "声母",
+    "title": "声母",
+    "letters": "j q x",
+    "tip": "小 ü 小 ü 有礼貌，见到 j、q、x 就摘帽。去掉两点还念 ü。",
+    "recognition": "b p m f d t n l\ng k h j q x\nq - p d - b j - i x - k\ng - q m - n f - t l - j",
+    "syllables": [
+      "jī",
+      "jí",
+      "jǐ",
+      "jì",
+      "qī",
+      "qí",
+      "qǐ",
+      "qì",
+      "xī",
+      "xí",
+      "xǐ",
+      "xì",
+      "jū",
+      "jú",
+      "jǔ",
+      "jù",
+      "qū",
+      "qú",
+      "qǔ",
+      "qù",
+      "xū",
+      "xú",
+      "xǔ",
+      "xù",
+      "jiā",
+      "xiá",
+      "qiā",
+      "jiǎ",
+      "xiā",
+      "xià",
+      "jiá",
+      "jià"
+    ],
+    "comparisons": [
+      "q · p",
+      "d · b",
+      "j · i",
+      "x · k",
+      "g · q",
+      "m · n",
+      "f · t",
+      "l · j"
+    ],
+    "words": [
+      {
+        "hanzi": "积极",
+        "pinyin": "jī jí"
+      },
+      {
+        "hanzi": "糯米",
+        "pinyin": "nuò mǐ"
+      },
+      {
+        "hanzi": "起立",
+        "pinyin": "qǐ lì"
+      },
+      {
+        "hanzi": "脾气",
+        "pinyin": "pí qì"
+      },
+      {
+        "hanzi": "下棋",
+        "pinyin": "xià qí"
+      },
+      {
+        "hanzi": "歌曲",
+        "pinyin": "gē qǔ"
+      },
+      {
+        "hanzi": "苦瓜",
+        "pinyin": "kǔ guā"
+      },
+      {
+        "hanzi": "母鸡",
+        "pinyin": "mǔ jī"
+      },
+      {
+        "hanzi": "举起",
+        "pinyin": "jǔ qǐ"
+      },
+      {
+        "hanzi": "国家",
+        "pinyin": "guó jiā"
+      },
+      {
+        "hanzi": "菠萝",
+        "pinyin": "bō luó"
+      },
+      {
+        "hanzi": "加法",
+        "pinyin": "jiā fǎ"
+      },
+      {
+        "hanzi": "过去",
+        "pinyin": "guò qù"
+      },
+      {
+        "hanzi": "获取",
+        "pinyin": "huò qǔ"
+      },
+      {
+        "hanzi": "菊花",
+        "pinyin": "jú huā"
+      }
+    ],
+    "characters": "打棋积木",
+    "sentences": [
+      {
+        "hanzi": "哥哥打鼓，弟弟搭积木。",
+        "pinyin": "gē ge dǎ gǔ dì di dā jī mù"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "page": 9,
+    "group": "声母",
+    "title": "声母",
+    "letters": "z c s",
+    "tip": "整体认读音节 zi、ci、si 直接读，不用拼。",
+    "recognition": "b p m f d t n l\ng k h j q x z c s\no- c z - x s - k c - s",
+    "syllables": [
+      "cā",
+      "sè",
+      "zū",
+      "cè",
+      "zé",
+      "cù",
+      "sú",
+      "zā",
+      "zǔ",
+      "zú",
+      "cū",
+      "zá",
+      "zǎ",
+      "sù",
+      "sà",
+      "zè",
+      "sǎ",
+      "sā",
+      "cuō",
+      "zuó",
+      "zuò",
+      "cuò",
+      "suǒ",
+      "zuō",
+      "zī",
+      "zǐ",
+      "zì",
+      "cī",
+      "cí",
+      "cǐ",
+      "cì",
+      "sī",
+      "sǐ",
+      "sì"
+    ],
+    "comparisons": [
+      "o · c",
+      "z · x",
+      "s · k",
+      "c · s"
+    ],
+    "words": [
+      {
+        "hanzi": "足迹",
+        "pinyin": "zú jì"
+      },
+      {
+        "hanzi": "丝瓜",
+        "pinyin": "sī guā"
+      },
+      {
+        "hanzi": "字词",
+        "pinyin": "zì cí"
+      },
+      {
+        "hanzi": "杂技",
+        "pinyin": "zá jì"
+      },
+      {
+        "hanzi": "法则",
+        "pinyin": "fǎ zé"
+      },
+      {
+        "hanzi": "坐下",
+        "pinyin": "zuò xià"
+      },
+      {
+        "hanzi": "歌词",
+        "pinyin": "gē cí"
+      },
+      {
+        "hanzi": "吐丝",
+        "pinyin": "tǔ sī"
+      },
+      {
+        "hanzi": "仔细",
+        "pinyin": "zǐ xì"
+      },
+      {
+        "hanzi": "祖国",
+        "pinyin": "zǔ guó"
+      },
+      {
+        "hanzi": "子女",
+        "pinyin": "zǐ nǚ"
+      },
+      {
+        "hanzi": "负责",
+        "pinyin": "fù zé"
+      },
+      {
+        "hanzi": "速度",
+        "pinyin": "sù dù"
+      },
+      {
+        "hanzi": "瓷器",
+        "pinyin": "cí qì"
+      },
+      {
+        "hanzi": "自己",
+        "pinyin": "zì jǐ"
+      }
+    ],
+    "characters": "字词句子",
+    "sentences": [
+      {
+        "hanzi": "许多紫色的花朵落下了。",
+        "pinyin": "xǔ duō zǐ sè de huā duǒ luò xià le"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "page": 10,
+    "group": "声母",
+    "title": "声母",
+    "letters": "zh ch sh r",
+    "tip": "分清平舌音和翘舌音。整体认读音节 zhi、chi、shi、ri 直接读。",
+    "recognition": "z c s zh ch sh r\nz - zh c - ch s - sh n - r",
+    "syllables": [
+      "zhā",
+      "chè",
+      "shú",
+      "zhè",
+      "shé",
+      "chù",
+      "shǎ",
+      "rù",
+      "chà",
+      "chè",
+      "zhǎ",
+      "chā",
+      "chuō",
+      "zhuǎ",
+      "shuō",
+      "chuò",
+      "shuā",
+      "rè",
+      "zhuā",
+      "shuǎ",
+      "zhuó",
+      "ruò",
+      "shuò",
+      "zhǔ",
+      "zhī",
+      "zhí",
+      "zhǐ",
+      "zhì",
+      "chī",
+      "chí",
+      "chǐ",
+      "chì",
+      "shī",
+      "shí",
+      "shǐ",
+      "shì"
+    ],
+    "comparisons": [
+      "z · zh",
+      "c · ch",
+      "s · sh",
+      "n · r"
+    ],
+    "words": [
+      {
+        "hanzi": "打折",
+        "pinyin": "dǎ zhé"
+      },
+      {
+        "hanzi": "读书",
+        "pinyin": "dú shū"
+      },
+      {
+        "hanzi": "日历",
+        "pinyin": "rì lì"
+      },
+      {
+        "hanzi": "古诗",
+        "pinyin": "gǔ shī"
+      },
+      {
+        "hanzi": "爪子",
+        "pinyin": "zhuǎ zi"
+      },
+      {
+        "hanzi": "尺子",
+        "pinyin": "chǐ zi"
+      },
+      {
+        "hanzi": "植树",
+        "pinyin": "zhí shù"
+      },
+      {
+        "hanzi": "日出",
+        "pinyin": "rì chū"
+      },
+      {
+        "hanzi": "值日",
+        "pinyin": "zhí rì"
+      },
+      {
+        "hanzi": "折纸",
+        "pinyin": "zhé zhǐ"
+      },
+      {
+        "hanzi": "热茶",
+        "pinyin": "rè chá"
+      },
+      {
+        "hanzi": "课桌",
+        "pinyin": "kè zhuō"
+      },
+      {
+        "hanzi": "数数",
+        "pinyin": "shǔ shù"
+      },
+      {
+        "hanzi": "果汁",
+        "pinyin": "guǒ zhī"
+      },
+      {
+        "hanzi": "皮尺",
+        "pinyin": "pí chǐ"
+      }
+    ],
+    "characters": "桌纸读书",
+    "sentences": [
+      {
+        "hanzi": "哥哥折了十四朵纸花。",
+        "pinyin": "gē ge zhé le shí sì duǒ zhǐ huā"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "page": 11,
+    "group": "声母",
+    "title": "声母",
+    "letters": "y w",
+    "tip": "整体认读音节 yi、wu、yu 直接读。",
+    "recognition": "z c s zh ch sh r\ny w u - w m - w y - k",
+    "syllables": [
+      "yā",
+      "yè",
+      "wū",
+      "yī",
+      "yē",
+      "yí",
+      "yú",
+      "wā",
+      "yě",
+      "wǔ",
+      "wú",
+      "yū",
+      "yǔ",
+      "yǎ",
+      "yì",
+      "wù",
+      "yù",
+      "yà",
+      "yǐ",
+      "wǎ",
+      "yá",
+      "yé",
+      "wà",
+      "wá"
+    ],
+    "comparisons": [
+      "u · w",
+      "m · w",
+      "y · k"
+    ],
+    "words": [
+      {
+        "hanzi": "雨衣",
+        "pinyin": "yǔ yī"
+      },
+      {
+        "hanzi": "大雾",
+        "pinyin": "dà wù"
+      },
+      {
+        "hanzi": "衣服",
+        "pinyin": "yī fu"
+      },
+      {
+        "hanzi": "蚂蚁",
+        "pinyin": "mǎ yǐ"
+      },
+      {
+        "hanzi": "椅子",
+        "pinyin": "yǐ zi"
+      },
+      {
+        "hanzi": "鸭子",
+        "pinyin": "yā zi"
+      },
+      {
+        "hanzi": "植物",
+        "pinyin": "zhí wù"
+      },
+      {
+        "hanzi": "日夜",
+        "pinyin": "rì yè"
+      },
+      {
+        "hanzi": "爷爷",
+        "pinyin": "yé ye"
+      },
+      {
+        "hanzi": "娃娃",
+        "pinyin": "wá wa"
+      },
+      {
+        "hanzi": "预热",
+        "pinyin": "yù rè"
+      },
+      {
+        "hanzi": "乌鸦",
+        "pinyin": "wū yā"
+      },
+      {
+        "hanzi": "无数",
+        "pinyin": "wú shù"
+      },
+      {
+        "hanzi": "压力",
+        "pinyin": "yā lì"
+      },
+      {
+        "hanzi": "刷牙",
+        "pinyin": "shuā yá"
+      },
+      {
+        "hanzi": "发芽",
+        "pinyin": "fā yá"
+      },
+      {
+        "hanzi": "也许",
+        "pinyin": "yě xǔ"
+      },
+      {
+        "hanzi": "页码",
+        "pinyin": "yè mǎ"
+      },
+      {
+        "hanzi": "一直",
+        "pinyin": "yì zhí"
+      },
+      {
+        "hanzi": "鱼籽",
+        "pinyin": "yú zǐ"
+      }
+    ],
+    "characters": "鱼鸭乌鸦",
+    "sentences": []
+  },
+  {
+    "id": 10,
+    "page": 12,
+    "group": "复韵母",
+    "title": "复韵母",
+    "letters": "ai ei ui",
+    "tip": "有 a 在，给 a 戴；a 不在，o、e 戴。要是 i、u 一起来，谁在后面给谁戴。",
+    "recognition": "āi uì ěi ài uǐ èi\nēi ǎi uí ái uī éi",
+    "syllables": [
+      "gāi",
+      "bèi",
+      "wài",
+      "tái",
+      "kuí",
+      "zhuì",
+      "mài",
+      "duī",
+      "cuì",
+      "wèi",
+      "nǎi",
+      "fēi",
+      "pái",
+      "tuǐ",
+      "huì",
+      "péi",
+      "ruǐ",
+      "zhāi",
+      "kuí",
+      "cǎi",
+      "ruì",
+      "zuǐ",
+      "lěi",
+      "shuǐ",
+      "guāi",
+      "huái",
+      "chuài",
+      "kuài",
+      "shuǎi"
+    ],
+    "comparisons": [],
+    "words": [
+      {
+        "hanzi": "白菜",
+        "pinyin": "bái cài"
+      },
+      {
+        "hanzi": "排队",
+        "pinyin": "pái duì"
+      },
+      {
+        "hanzi": "开会",
+        "pinyin": "kāi huì"
+      },
+      {
+        "hanzi": "黑色",
+        "pinyin": "hēi sè"
+      },
+      {
+        "hanzi": "美丽",
+        "pinyin": "měi lì"
+      },
+      {
+        "hanzi": "水杯",
+        "pinyin": "shuǐ bēi"
+      },
+      {
+        "hanzi": "飞车",
+        "pinyin": "fēi chē"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "hái zi"
+      },
+      {
+        "hanzi": "回来",
+        "pinyin": "huí lái"
+      },
+      {
+        "hanzi": "桂花",
+        "pinyin": "guì huā"
+      },
+      {
+        "hanzi": "责怪",
+        "pinyin": "zé guài"
+      },
+      {
+        "hanzi": "快乐",
+        "pinyin": "kuài lè"
+      },
+      {
+        "hanzi": "袋鼠",
+        "pinyin": "dài shǔ"
+      },
+      {
+        "hanzi": "海归",
+        "pinyin": "hǎi guī"
+      },
+      {
+        "hanzi": "打柴",
+        "pinyin": "dǎ chái"
+      },
+      {
+        "hanzi": "伟大",
+        "pinyin": "wěi dà"
+      },
+      {
+        "hanzi": "花蕊",
+        "pinyin": "huā ruǐ"
+      },
+      {
+        "hanzi": "破碎",
+        "pinyin": "pò suì"
+      },
+      {
+        "hanzi": "捶背",
+        "pinyin": "chuí bèi"
+      },
+      {
+        "hanzi": "指挥",
+        "pinyin": "zhǐ huī"
+      }
+    ],
+    "characters": "白菜西瓜果",
+    "sentences": []
+  },
+  {
+    "id": 11,
+    "page": 13,
+    "group": "复韵母",
+    "title": "复韵母",
+    "letters": "ao ou iu",
+    "tip": "分清 ui 和 iu。标声调时，谁在后面给谁戴。",
+    "recognition": "āo iū ǒu ào iǔ óu\niú ǎo iù ōu áo òu",
+    "syllables": [
+      "gāo",
+      "diū",
+      "ráo",
+      "kōu",
+      "tiào",
+      "zhòu",
+      "mǒu",
+      "yáo",
+      "còu",
+      "niú",
+      "xiù",
+      "shǎo",
+      "pōu",
+      "qiú",
+      "diāo",
+      "gǒu",
+      "chóu",
+      "háo"
+    ],
+    "comparisons": [],
+    "words": [
+      {
+        "hanzi": "遛狗",
+        "pinyin": "liù gǒu"
+      },
+      {
+        "hanzi": "怀抱",
+        "pinyin": "huái bào"
+      },
+      {
+        "hanzi": "奶牛",
+        "pinyin": "nǎi niú"
+      },
+      {
+        "hanzi": "洗手",
+        "pinyin": "xǐ shǒu"
+      },
+      {
+        "hanzi": "优秀",
+        "pinyin": "yōu xiù"
+      },
+      {
+        "hanzi": "教师",
+        "pinyin": "jiào shī"
+      },
+      {
+        "hanzi": "踢球",
+        "pinyin": "tī qiú"
+      },
+      {
+        "hanzi": "草帽",
+        "pinyin": "cǎo mào"
+      },
+      {
+        "hanzi": "候鸟",
+        "pinyin": "hòu niǎo"
+      },
+      {
+        "hanzi": "海鸥",
+        "pinyin": "hǎi ōu"
+      },
+      {
+        "hanzi": "调皮",
+        "pinyin": "tiáo pí"
+      },
+      {
+        "hanzi": "快跑",
+        "pinyin": "kuài pǎo"
+      },
+      {
+        "hanzi": "牛肉",
+        "pinyin": "niú ròu"
+      },
+      {
+        "hanzi": "土豆",
+        "pinyin": "tǔ dòu"
+      },
+      {
+        "hanzi": "绿草",
+        "pinyin": "lǜ cǎo"
+      },
+      {
+        "hanzi": "小猫",
+        "pinyin": "xiǎo māo"
+      },
+      {
+        "hanzi": "口罩",
+        "pinyin": "kǒu zhào"
+      },
+      {
+        "hanzi": "柚子",
+        "pinyin": "yòu zi"
+      },
+      {
+        "hanzi": "流泪",
+        "pinyin": "liú lèi"
+      },
+      {
+        "hanzi": "害羞",
+        "pinyin": "hài xiū"
+      },
+      {
+        "hanzi": "回报",
+        "pinyin": "huí bào"
+      },
+      {
+        "hanzi": "泡澡",
+        "pinyin": "pào zǎo"
+      },
+      {
+        "hanzi": "桥头",
+        "pinyin": "qiáo tóu"
+      },
+      {
+        "hanzi": "柳树",
+        "pinyin": "liǔ shù"
+      },
+      {
+        "hanzi": "喝酒",
+        "pinyin": "hē jiǔ"
+      },
+      {
+        "hanzi": "小桥流水",
+        "pinyin": "xiǎo qiáo liú shuǐ"
+      },
+      {
+        "hanzi": "百鸟归巢",
+        "pinyin": "bǎi niǎo guī cháo"
+      }
+    ],
+    "characters": "小桥流柳",
+    "sentences": []
+  },
+  {
+    "id": 12,
+    "page": 14,
+    "group": "复韵母",
+    "title": "复韵母",
+    "letters": "ie üe er",
+    "tip": "er 是特殊韵母，不和声母相拼。ie 和 ei 的字母顺序不同，要看仔细。",
+    "recognition": "iè ér üé iē üě üè\nēr iě ěr èr ié üē",
+    "syllables": [
+      "piě",
+      "lüè",
+      "biè",
+      "jué",
+      "nüè",
+      "xiě",
+      "jiě",
+      "què",
+      "dié",
+      "xué",
+      "qiē",
+      "quē",
+      "yě",
+      "yuè",
+      "yuē",
+      "yé",
+      "yè",
+      "yē"
+    ],
+    "comparisons": [],
+    "words": [
+      {
+        "hanzi": "叶子",
+        "pinyin": "yè zi"
+      },
+      {
+        "hanzi": "作业",
+        "pinyin": "zuò yè"
+      },
+      {
+        "hanzi": "耳朵",
+        "pinyin": "ěr duo"
+      },
+      {
+        "hanzi": "雪花",
+        "pinyin": "xuě huā"
+      },
+      {
+        "hanzi": "月儿",
+        "pinyin": "yuè er"
+      },
+      {
+        "hanzi": "儿歌",
+        "pinyin": "ér gē"
+      },
+      {
+        "hanzi": "野草",
+        "pinyin": "yě cǎo"
+      },
+      {
+        "hanzi": "乐器",
+        "pinyin": "yuè qì"
+      },
+      {
+        "hanzi": "鸟儿",
+        "pinyin": "niǎo er"
+      },
+      {
+        "hanzi": "写字",
+        "pinyin": "xiě zì"
+      },
+      {
+        "hanzi": "鞋带",
+        "pinyin": "xié dài"
+      },
+      {
+        "hanzi": "觉得",
+        "pinyin": "jué de"
+      },
+      {
+        "hanzi": "姐姐",
+        "pinyin": "jiě jie"
+      },
+      {
+        "hanzi": "好学",
+        "pinyin": "hào xué"
+      },
+      {
+        "hanzi": "儿女",
+        "pinyin": "ér nǚ"
+      },
+      {
+        "hanzi": "策略",
+        "pinyin": "cè lüè"
+      },
+      {
+        "hanzi": "喜鹊",
+        "pinyin": "xǐ què"
+      },
+      {
+        "hanzi": "皮靴",
+        "pinyin": "pí xuē"
+      },
+      {
+        "hanzi": "蝴蝶",
+        "pinyin": "hú dié"
+      },
+      {
+        "hanzi": "缺少",
+        "pinyin": "quē shǎo"
+      }
+    ],
+    "characters": "开雪夜色美",
+    "sentences": [
+      {
+        "hanzi": "雪花飘落，梅花绽开了笑脸。",
+        "pinyin": "xuě huā piāo luò méi huā zhàn kāi le xiào liǎn"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "page": 15,
+    "group": "鼻韵母",
+    "title": "前鼻韵母",
+    "letters": "an en in un ün",
+    "tip": "前鼻韵母的尾音是 n，读完时舌尖抵住上齿龈。",
+    "recognition": "ān én ǔn án īn àn\nín ěn ūn ǐn ǎn ǜn",
+    "syllables": [
+      "shǎn",
+      "sēn",
+      "pīn",
+      "mǐn",
+      "zhèn",
+      "nán",
+      "wěn",
+      "xún",
+      "rùn",
+      "jiān",
+      "xīn",
+      "chǔn",
+      "guǎn",
+      "jùn",
+      "quān",
+      "hūn",
+      "lín",
+      "tuán",
+      "yuǎn",
+      "yìn",
+      "yún",
+      "yuān",
+      "xuǎn",
+      "yūn"
+    ],
+    "comparisons": [],
+    "words": [
+      {
+        "hanzi": "杂乱",
+        "pinyin": "zá luàn"
+      },
+      {
+        "hanzi": "亲人",
+        "pinyin": "qīn rén"
+      },
+      {
+        "hanzi": "枕巾",
+        "pinyin": "zhěn jīn"
+      },
+      {
+        "hanzi": "贫困",
+        "pinyin": "pín kùn"
+      },
+      {
+        "hanzi": "嘴馋",
+        "pinyin": "zuǐ chán"
+      },
+      {
+        "hanzi": "转圈",
+        "pinyin": "zhuàn quān"
+      },
+      {
+        "hanzi": "裙子",
+        "pinyin": "qún zi"
+      },
+      {
+        "hanzi": "侦探",
+        "pinyin": "zhēn tàn"
+      },
+      {
+        "hanzi": "医院",
+        "pinyin": "yī yuàn"
+      },
+      {
+        "hanzi": "头晕",
+        "pinyin": "tóu yūn"
+      },
+      {
+        "hanzi": "轮船",
+        "pinyin": "lún chuán"
+      },
+      {
+        "hanzi": "手印",
+        "pinyin": "shǒu yìn"
+      },
+      {
+        "hanzi": "蓝天",
+        "pinyin": "lán tiān"
+      },
+      {
+        "hanzi": "白云",
+        "pinyin": "bái yún"
+      },
+      {
+        "hanzi": "饮料",
+        "pinyin": "yǐn liào"
+      },
+      {
+        "hanzi": "电视",
+        "pinyin": "diàn shì"
+      }
+    ],
+    "characters": "蓝云草原",
+    "sentences": [
+      {
+        "hanzi": "草原是马儿的家。",
+        "pinyin": "cǎo yuán shì mǎ er de jiā"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "page": 16,
+    "group": "鼻韵母",
+    "title": "后鼻韵母",
+    "letters": "ang eng ing ong",
+    "tip": "后鼻韵母的尾音是 ng，舌根抬起，抵住软腭。",
+    "recognition": "āng òng ěng àng īng óng\nǐng éng ǒng áng èng íng",
+    "syllables": [
+      "bāng",
+      "yīng",
+      "sòng",
+      "téng",
+      "jǐng",
+      "děng",
+      "háng",
+      "fēng",
+      "hǒng",
+      "qíng",
+      "chuāng",
+      "héng",
+      "rēng",
+      "bǐng",
+      "qiáng",
+      "xióng",
+      "huáng",
+      "cóng"
+    ],
+    "comparisons": [],
+    "words": [
+      {
+        "hanzi": "闪亮",
+        "pinyin": "shǎn liàng"
+      },
+      {
+        "hanzi": "平常",
+        "pinyin": "píng cháng"
+      },
+      {
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng"
+      },
+      {
+        "hanzi": "滑冰",
+        "pinyin": "huá bīng"
+      },
+      {
+        "hanzi": "老鹰",
+        "pinyin": "lǎo yīng"
+      },
+      {
+        "hanzi": "步行",
+        "pinyin": "bù xíng"
+      },
+      {
+        "hanzi": "风景",
+        "pinyin": "fēng jǐng"
+      },
+      {
+        "hanzi": "正确",
+        "pinyin": "zhèng què"
+      },
+      {
+        "hanzi": "伤心",
+        "pinyin": "shāng xīn"
+      },
+      {
+        "hanzi": "工程",
+        "pinyin": "gōng chéng"
+      },
+      {
+        "hanzi": "贫穷",
+        "pinyin": "pín qióng"
+      },
+      {
+        "hanzi": "红星",
+        "pinyin": "hóng xīng"
+      },
+      {
+        "hanzi": "城墙",
+        "pinyin": "chéng qiáng"
+      },
+      {
+        "hanzi": "上升",
+        "pinyin": "shàng shēng"
+      },
+      {
+        "hanzi": "冲锋",
+        "pinyin": "chōng fēng"
+      }
+    ],
+    "characters": "冰自行车",
+    "sentences": [
+      {
+        "hanzi": "闹钟叮咚响，起床去上学。",
+        "pinyin": "nào zhōng dīng dōng xiǎng qǐ chuáng qù shàng xué"
+      },
+      {
+        "hanzi": "问声老师好，问声同学早。",
+        "pinyin": "wèn shēng lǎo shī hǎo wèn shēng tóng xué zǎo"
+      }
+    ]
+  }
+]
