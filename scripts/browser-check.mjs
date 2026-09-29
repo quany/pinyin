@@ -1,12 +1,14 @@
-// Run from the repository: PINYIN_PROJECT_DIR="$PWD" ego-browser nodejs < scripts/browser-check.mjs
+// Run with: npm run test:browser (requires an active, agent-controlled Ego task space).
 // Reuse the task space created for this goal; never create a second space here.
-const task = await taskSpace(Number(process.env.PINYIN_SPACE_ID || 1));
+const config = globalThis.pinyinCheckConfig || {};
+const task = await taskSpace(Number(config.spaceId || 1));
 const page = task.page('p1');
+await page.cdp('Emulation.setDeviceMetricsOverride', {width:1440,height:1050,deviceScaleFactor:1,mobile:false});
 const { readFile } = await import('node:fs/promises');
-const projectDir = process.env.PINYIN_PROJECT_DIR;
+const projectDir = config.projectDir;
 if (!projectDir) throw new Error('Set PINYIN_PROJECT_DIR to the absolute repository path.');
 const curriculum = JSON.parse(await readFile(`${projectDir}/src/curriculum.json`,'utf8'));
-const origin = process.env.PINYIN_TEST_URL || 'http://127.0.0.1:5173';
+const origin = config.origin || 'http://127.0.0.1:5173';
 const results=[];
 function assert(value,label){if(!value)throw new Error(label);results.push(label)}
 await page.goto(origin);
@@ -31,7 +33,7 @@ try {
   await page.goto(origin+'/#lesson/3');await page.waitForSelector('#tab-words');await page.click('#tab-words');
   await page.click('loc=css:button[aria-label="收藏妈妈"]');
   await page.goto(origin+'/#favorites');await page.waitForSelector('.word-card');
-  assert(await page.evaluate(()=>document.querySelector('.word-card').textContent.includes('妈妈')),'收藏出现在收藏夹');
+  assert(await page.evaluate(()=>document.querySelector('.word-read')?.getAttribute('aria-label')==='朗读妈妈'),'收藏出现在收藏夹');
   await page.fill('loc=css:input[aria-label="搜索收藏词语"]','不存在');
   assert(await page.evaluate(()=>document.querySelectorAll('.word-card').length===0&&document.querySelector('.empty-state h2').textContent==='还没找到这个词语'),'收藏无匹配搜索空态');
   await page.fill('loc=css:input[aria-label="搜索收藏词语"]','妈妈');await page.click('loc=css:button[aria-label="取消收藏妈妈"]');

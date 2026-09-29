@@ -27,6 +27,7 @@ npm run test       # 教材数据、学习记录、出题与计分输入验证
 npm run build      # TypeScript 检查及生产构建
 npm run preview    # 预览生产构建
 npm run check      # 测试 + 构建
+npm run test:browser # 在已授权的 Ego 工作区执行交互与响应式检查
 ```
 
 ## 发布
