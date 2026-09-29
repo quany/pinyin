@@ -74,6 +74,8 @@ try {
 }finally{
   await page.evaluate(previous=>{if(previous===null)localStorage.removeItem('pinyin-kingdom-v1');else localStorage.setItem('pinyin-kingdom-v1',previous)},previous);
   await page.cdp('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
-  await page.goto(origin+'/#learn');await page.waitForSelector('.course-card');
+  await page.goto(origin+'/#learn');await page.reload();await page.waitForSelector('.course-card');
+  const restored = await page.evaluate(()=>localStorage.getItem('pinyin-kingdom-v1'));
+  if (previous !== null) assert(restored === previous, '验证结束后原学习记录完整恢复');
   await page.screenshot({path:'/tmp/pinyin-source/home-mobile-final.png'});
 }
