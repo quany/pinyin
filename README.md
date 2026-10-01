@@ -12,6 +12,7 @@
 - 家长记录朗读遍数与掌握程度、每周打卡、连续学习和成长徽章。
 - 23 个声母、24 个韵母、16 个整体认读音节的图谱。
 - 手机、平板、桌面布局；自托管 Andika 拼音字体；原读本对照。
+- 绘本风格的彩虹城堡与四位原创动物伙伴、可点击的鼓励话语、彩色字母卡及答题庆祝动画；支持系统“减少动态效果”设置。
 
 ## 本地运行
 
@@ -57,7 +58,8 @@ GitHub Actions 会在推送与拉取请求时检查测试和构建。部署使�
 - `src/App.tsx`：学习页面与交互。
 - `src/learning.ts`：课程查询、题目生成和学习记录处理。
 - `src/learning.test.ts`：内容完整性与核心逻辑测试。
-- `src/styles.css`：响应式布局与主题。
-- `src/components/KingdomArt.tsx`：原创 SVG 小狐狸插画。
+- `src/styles.css`：基础响应式布局；`src/cartoon.css`：卡通主题与互动反馈。
+- `src/components/KingdomArt.tsx`：原创 SVG 彩虹城堡插画。
+- `src/components/LearningBuddy.tsx`：动物伙伴、鼓励互动和庆祝装饰。
 
 原教材的内容权利归原作者所有；Andika 字体由 `@fontsource/andika` 提供，遵循 SIL Open Font License。此仓库未对原教材重新授予许可证。
